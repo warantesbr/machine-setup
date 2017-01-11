@@ -1,3 +1,6 @@
 [submodule "lib/mac-dev-playbook"]
 	path = lib/mac-dev-playbook
 	url = git@github.com:warantesbr/mac-dev-playbook.git
+[submodule "lib/laptop"]
+	path = lib/laptop
+	url = git@github.com:warantesbr/laptop.git
