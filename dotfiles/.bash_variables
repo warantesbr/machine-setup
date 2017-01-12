@@ -4,12 +4,12 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 # export LSCOLORS=ExFxCxDxBxegedabagacad;;
 
 # Editor
-export EDITOR='mvim -v'
+export EDITOR="mvim -v"
 # export EDITOR='emacs'
 # export EDITOR='subl -w'
 
 # Dirs
-export NVM_DIR="/Users/warantesbr/.nvm"
+export NVM_DIR="$HOME/.nvm"
 
 # Ansible
 export ANSIBLE_NOCOWS=1
@@ -22,4 +22,4 @@ export DOCKER_MACHINE="/usr/local/bin/docker-machine"
 export VM_MEM_SIZE="1280"
 
 # DEPRECATED
-# export SSL_CERT_FILE=/usr/local/opt/curl-ca-bundle/share/ca-bundle.crt
+# export SSL_CERT_FILE="/usr/local/opt/curl-ca-bundle/share/ca-bundle.crt"
