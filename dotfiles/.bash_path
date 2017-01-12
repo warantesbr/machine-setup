@@ -1,0 +1,9 @@
+export PATH="$HOME/.rvm/bin:$HOME/Library/Scripts:$PATH"
+export PATH="~/bin:/usr/local/bin:/usr/local/sbin:$PATH"
+export PATH="$PATH:/Users/warantesbr/Library/Python/2.7/bin"
+
+# DEPRECATED
+# PATH to the DCOS CLI binary
+# if [[ "$PATH" != *"/Users/warantesbr/dcos/bin"* ]]; then
+#   export PATH="$PATH:/Users/warantesbr/dcos/bin";
+# fi
