@@ -1,0 +1,20 @@
+[user]
+	name = Willian Arantes
+	email = warantesbr@gmail.com
+[core]
+	excludesfile = /Users/warantesbr/.gitignore_global
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[alias]
+	add-commit = !git add -A && git commit
+	cia = !git add-commit
+	ci = commit
+	co = checkout
+	logp = log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	logx = log --branches --remotes --tags --graph --oneline --decorate
+	st = status
+[push]
+	default = matching
