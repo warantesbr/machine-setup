@@ -7,3 +7,6 @@
 [submodule "dotfiles/_warantesbr"]
 	path = dotfiles/_warantesbr
 	url = git@github.com:warantesbr/dotfiles.git
+[submodule "dotfiles/mathiasbynens"]
+	path = dotfiles/mathiasbynens
+	url = git@github.com:warantesbr/mathiasbynens-dotfiles.git
