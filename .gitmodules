@@ -4,3 +4,6 @@
 [submodule "lib/laptop"]
 	path = lib/laptop
 	url = git@github.com:warantesbr/laptop.git
+[submodule "dotfiles/_warantesbr"]
+	path = dotfiles/_warantesbr
+	url = git@github.com:warantesbr/dotfiles.git
